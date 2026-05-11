@@ -10,23 +10,9 @@
   --muted: #9aa9ad;
   --line: rgba(238, 238, 238, 0.18);
   --link: #8cc2dd;
-  --visited: #8b6fcb;
-  --code-bg: #000000;
+  --visited: #b39ddb;
+  --code-bg: #001a22;
   --code: #dddddd;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --bg: #ffffff;
-    --heading: #222222;
-    --text: #444444;
-    --muted: #777777;
-    --line: rgba(34, 34, 34, 0.14);
-    --link: #3273dc;
-    --visited: #8b6fcb;
-    --code-bg: #f2f2f2;
-    --code: #222222;
-  }
 }
 
 * {
